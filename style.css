@@ -1,0 +1,33 @@
+.container {
+   display: flex;
+   gap: 10px;
+ } 
+.tan {
+    background-color:yellow;
+    height: 200px;
+    width: 200px; 
+    order: 2;
+    
+}
+.san {
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    
+}
+.dan {
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    order: -1;
+}
+.yan {
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+}
+.man {
+    background-color: olive;
+    height: 200px;
+    width: 200px;
+}
